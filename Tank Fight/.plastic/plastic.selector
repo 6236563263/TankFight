@@ -1,0 +1,4 @@
+repository "Tank Fight@xd6236563263@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"

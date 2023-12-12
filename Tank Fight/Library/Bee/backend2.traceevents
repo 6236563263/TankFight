@@ -1,0 +1,341 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1702198616756519, "dur":112, "ph":"X", "name": "IPC_Client_InitializeAndConnectToParent",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1702198616756653, "dur":14677, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1702198616771338, "dur":116, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1702198616771499, "dur":20232, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1702198616792005, "dur":372, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/1/Desktop/TankFight_/Tank Fight_Data/level1" }}
+,{ "pid":12345, "tid":0, "ts":1702198616793149, "dur":71, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1702198616793769, "dur":53, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":0, "ts":1702198616795186, "dur":79, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":0, "ts":1702198616795802, "dur":92, "ph":"X", "name": "EmitFirstTimeEnqueue",  "args": { "detail":"CopyFiles C:/Users/1/Desktop/TankFight_/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":0, "ts":1702198616791898, "dur":4111, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1702198616796010, "dur":2733663, "ph":"X", "name": "WaitForBuildFinished", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1702198619529674, "dur":508, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1702198619530413, "dur":1759, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1702198616780033, "dur":15984, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1702198616796020, "dur":1335, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1702198616810261, "dur":763, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/csharpactions/boot.config_tyr4.info" }}
+,{ "pid":12345, "tid":1, "ts":1702198616811026, "dur":2795, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1702198616813829, "dur":51, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\PlayerDataCache\\Win64\\Data\\RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":1, "ts":1702198616811026, "dur":3179, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"AddBootConfigGUID Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1702198616814835, "dur":312713, "ph":"X", "name": "AddBootConfigGUID",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1702198617128679, "dur":2768, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\Bee\\artifacts\\WinPlayerBuildProgram\\boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1702198617128678, "dur":2770, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/1/Desktop/TankFight_/Tank Fight_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1702198617131461, "dur":550, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/boot.config" }}
+,{ "pid":12345, "tid":1, "ts":1702198617132013, "dur":2397649, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1702198616782185, "dur":13839, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1702198616796029, "dur":158, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1702198616796187, "dur":288, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1702198616796476, "dur":894, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1702198616797407, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/1/Desktop/TankFight_/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":2, "ts":1702198616799903, "dur":1362, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":2, "ts":1702198616801293, "dur":1564, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":2, "ts":1702198616802885, "dur":4624, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":2, "ts":1702198616807569, "dur":5219, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/Unity.Services.Core.Telemetry.dll" }}
+,{ "pid":12345, "tid":2, "ts":1702198616812842, "dur":4635, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.Purchasing.SecurityCore.dll" }}
+,{ "pid":12345, "tid":2, "ts":1702198616817505, "dur":3648, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1702198616821172, "dur":1531, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1702198616822716, "dur":2098, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1702198616824832, "dur":2772, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1702198616827620, "dur":13690, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1702198616841326, "dur":2688371, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1702198616783542, "dur":12490, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1702198616796035, "dur":171, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1702198616796206, "dur":419, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1702198616796625, "dur":764, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1702198616798266, "dur":2371, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":3, "ts":1702198616800660, "dur":2183, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":3, "ts":1702198616802887, "dur":2907, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1702198616805810, "dur":5925, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":3, "ts":1702198616811782, "dur":15294, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/Unity.Services.Core.Analytics.dll" }}
+,{ "pid":12345, "tid":3, "ts":1702198616827119, "dur":4805, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1702198616831954, "dur":9376, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1702198616841340, "dur":2688350, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1702198616783746, "dur":12292, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1702198616796041, "dur":192, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1702198616796233, "dur":308, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1702198616796542, "dur":867, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1702198616801101, "dur":1600, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":4, "ts":1702198616802718, "dur":3566, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":4, "ts":1702198616806314, "dur":5484, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/Unity.Services.Analytics.dll" }}
+,{ "pid":12345, "tid":4, "ts":1702198616811838, "dur":5740, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":4, "ts":1702198616817622, "dur":3864, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1702198616821505, "dur":2350, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1702198616823870, "dur":2064, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1702198616826003, "dur":3635, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1702198616829656, "dur":10310, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1702198616839983, "dur":2689694, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1702198616784072, "dur":11973, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1702198616796048, "dur":824, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1702198616796873, "dur":541, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1702198616812489, "dur":2204, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":5, "ts":1702198616814712, "dur":13962, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/Unity.Services.Core.Networking.dll" }}
+,{ "pid":12345, "tid":5, "ts":1702198616828726, "dur":4890, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1702198616833642, "dur":14643, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":5, "ts":1702198616848306, "dur":2681394, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1702198616784380, "dur":11779, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1702198616796163, "dur":586, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1702198616796749, "dur":780, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1702198616797532, "dur":83, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":6, "ts":1702198616813352, "dur":5262, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":6, "ts":1702198616818650, "dur":13886, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1702198616832550, "dur":92, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"Library\\com.unity.services.core\\UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":6, "ts":1702198616832549, "dur":93, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/1/Desktop/TankFight_/Tank Fight_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":6, "ts":1702198616833056, "dur":827, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/StreamingAssets/UnityServicesProjectConfiguration.json" }}
+,{ "pid":12345, "tid":6, "ts":1702198616833907, "dur":8666, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":6, "ts":1702198616842619, "dur":2687098, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1702198616784799, "dur":11367, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1702198616796169, "dur":548, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1702198616796717, "dur":691, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1702198616799805, "dur":1387, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":7, "ts":1702198616801249, "dur":1137, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":7, "ts":1702198616802401, "dur":1706, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":7, "ts":1702198616804132, "dur":5447, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/Unity.Burst.Unsafe.dll" }}
+,{ "pid":12345, "tid":7, "ts":1702198616809604, "dur":16388, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.Purchasing.SecurityStub.dll" }}
+,{ "pid":12345, "tid":7, "ts":1702198616826050, "dur":3576, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1702198616829645, "dur":6445, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.ContentLoadModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1702198616836111, "dur":4182, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/resources.assets" }}
+,{ "pid":12345, "tid":7, "ts":1702198616840342, "dur":2689362, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1702198616785043, "dur":11130, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1702198616796176, "dur":289, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1702198616796466, "dur":891, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1702198616805275, "dur":3401, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/app.info" }}
+,{ "pid":12345, "tid":8, "ts":1702198616808694, "dur":16768, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":8, "ts":1702198616825490, "dur":3724, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1702198616829274, "dur":11123, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1702198616840432, "dur":2689251, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1702198616785463, "dur":10823, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1702198616796288, "dur":1117, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1702198616802136, "dur":1628, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":9, "ts":1702198616803790, "dur":5796, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/Newtonsoft.Json.dll" }}
+,{ "pid":12345, "tid":9, "ts":1702198616809643, "dur":6313, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/Unity.Burst.dll" }}
+,{ "pid":12345, "tid":9, "ts":1702198616816008, "dur":13577, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/Unity.AI.Navigation.dll" }}
+,{ "pid":12345, "tid":9, "ts":1702198616829623, "dur":8393, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1702198616838033, "dur":2691634, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1702198616785560, "dur":10864, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1702198616796425, "dur":944, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1702198616808406, "dur":1889, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":10, "ts":1702198616810346, "dur":6355, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.XR.LegacyInputHelpers.dll" }}
+,{ "pid":12345, "tid":10, "ts":1702198616816758, "dur":4020, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.Purchasing.Stores.dll" }}
+,{ "pid":12345, "tid":10, "ts":1702198616820817, "dur":1873, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1702198616822707, "dur":2102, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1702198616824826, "dur":3032, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1702198616827893, "dur":11965, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1702198616839881, "dur":2689804, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1702198616785904, "dur":10535, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1702198616796440, "dur":1074, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1702198616797517, "dur":81, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":11, "ts":1702198616810714, "dur":7146, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":11, "ts":1702198616817894, "dur":13832, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1702198616831742, "dur":8041, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1702198616839813, "dur":2689867, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1702198616786285, "dur":10161, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1702198616796446, "dur":913, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1702198616798297, "dur":13081, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":12, "ts":1702198616811412, "dur":5393, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll" }}
+,{ "pid":12345, "tid":12, "ts":1702198616816862, "dur":4242, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.Purchasing.AppleMacosStub.dll" }}
+,{ "pid":12345, "tid":12, "ts":1702198616821152, "dur":1844, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1702198616823012, "dur":1961, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1702198616824985, "dur":15359, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1702198616840356, "dur":2689490, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1702198616786706, "dur":9747, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1702198616796454, "dur":968, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1702198616803525, "dur":12434, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":13, "ts":1702198616815988, "dur":4251, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/Unity.Analytics.DataPrivacy.dll" }}
+,{ "pid":12345, "tid":13, "ts":1702198616820287, "dur":1611, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1702198616821927, "dur":2034, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1702198616824054, "dur":2435, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1702198616826506, "dur":4493, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1702198616831015, "dur":6869, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1702198616837916, "dur":4652, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":13, "ts":1702198616842640, "dur":2687092, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1702198616787006, "dur":9454, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1702198616796461, "dur":964, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1702198616797428, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/1/Desktop/TankFight_/Tank Fight.exe" }}
+,{ "pid":12345, "tid":14, "ts":1702198616809211, "dur":34347, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight.exe" }}
+,{ "pid":12345, "tid":14, "ts":1702198616843591, "dur":2686155, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1702198616787291, "dur":9175, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1702198616796467, "dur":963, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1702198616799412, "dur":12648, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":15, "ts":1702198616812081, "dur":5676, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.Purchasing.Codeless.dll" }}
+,{ "pid":12345, "tid":15, "ts":1702198616817831, "dur":14142, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1702198616831989, "dur":9193, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1702198616841202, "dur":2688473, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1702198616787515, "dur":8960, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1702198616796476, "dur":903, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1702198616806377, "dur":2873, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":16, "ts":1702198616809271, "dur":16439, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/Unity.Services.Core.Device.dll" }}
+,{ "pid":12345, "tid":16, "ts":1702198616825788, "dur":3453, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1702198616829262, "dur":5650, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1702198616834946, "dur":1815, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":16, "ts":1702198616836801, "dur":12310, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/level1" }}
+,{ "pid":12345, "tid":16, "ts":1702198616849133, "dur":2680580, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1702198616787656, "dur":8825, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1702198616796481, "dur":906, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1702198616797387, "dur":54, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/1/Desktop/TankFight_/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":17, "ts":1702198616806640, "dur":2750, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":17, "ts":1702198616809431, "dur":16584, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.Advertisements.dll" }}
+,{ "pid":12345, "tid":17, "ts":1702198616826067, "dur":3917, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1702198616830004, "dur":11540, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1702198616841564, "dur":2688152, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1702198616787783, "dur":8703, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1702198616796486, "dur":872, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1702198616797601, "dur":109, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\1\\Desktop\\Unity\\Tank Fight\\Library\\Bee\\PlayerScriptAssemblies\\Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":18, "ts":1702198616797743, "dur":104, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\1\\Desktop\\Unity\\Tank Fight\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.Purchasing.Stores.dll" }}
+,{ "pid":12345, "tid":18, "ts":1702198616797847, "dur":226, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\1\\Desktop\\Unity\\Tank Fight\\Library\\Bee\\PlayerScriptAssemblies\\Unity.RenderPipelines.Core.Runtime.dll" }}
+,{ "pid":12345, "tid":18, "ts":1702198616798073, "dur":95, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\1\\Desktop\\Unity\\Tank Fight\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Postprocessing.Runtime.dll" }}
+,{ "pid":12345, "tid":18, "ts":1702198616798337, "dur":177, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\1\\Desktop\\Unity\\Tank Fight\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":18, "ts":1702198616798719, "dur":167, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\1\\Desktop\\Unity\\Tank Fight\\Library\\Bee\\PlayerScriptAssemblies\\Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":18, "ts":1702198616798912, "dur":60, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\1\\Desktop\\Unity\\Tank Fight\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.Purchasing.dll" }}
+,{ "pid":12345, "tid":18, "ts":1702198616799021, "dur":355, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\1\\Desktop\\Unity\\Tank Fight\\Library\\Bee\\PlayerScriptAssemblies\\Unity.RenderPipelines.Universal.Runtime.dll" }}
+,{ "pid":12345, "tid":18, "ts":1702198616799433, "dur":151, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\1\\Desktop\\Unity\\Tank Fight\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Burst.dll" }}
+,{ "pid":12345, "tid":18, "ts":1702198616799646, "dur":53, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\1\\Desktop\\Unity\\Tank Fight\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":18, "ts":1702198616799753, "dur":282, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\1\\Desktop\\Unity\\Tank Fight\\Library\\Bee\\PlayerScriptAssemblies\\Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":18, "ts":1702198616800063, "dur":133, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\1\\Desktop\\Unity\\Tank Fight\\Library\\Bee\\PlayerScriptAssemblies\\UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":18, "ts":1702198616800296, "dur":73, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\1\\Desktop\\Unity\\Tank Fight\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":18, "ts":1702198616800369, "dur":56, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\1\\Desktop\\Unity\\Tank Fight\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Services.Analytics.dll" }}
+,{ "pid":12345, "tid":18, "ts":1702198616800426, "dur":324, "ph":"X", "name": "ComputeFileSignatureSha1",  "args": { "detail":"C:\\Users\\1\\Desktop\\Unity\\Tank Fight\\Library\\Bee\\PlayerScriptAssemblies\\Unity.Mathematics.dll" }}
+,{ "pid":12345, "tid":18, "ts":1702198616797363, "dur":3550, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"GenerateNativePluginsForAssemblies Library/Bee/artifacts/WinPlayerBuildProgram/AsyncPluginsFromLinker" }}
+,{ "pid":12345, "tid":18, "ts":1702198616803724, "dur":2698549, "ph":"X", "name": "GenerateNativePluginsForAssemblies",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/AsyncPluginsFromLinker" }}
+,{ "pid":12345, "tid":18, "ts":1702198619503627, "dur":25967, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Plugins/x86_64/lib_burst_generated.dll" }}
+,{ "pid":12345, "tid":19, "ts":1702198616788314, "dur":8178, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1702198616796493, "dur":1032, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1702198616797528, "dur":94, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":19, "ts":1702198616811569, "dur":5712, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":19, "ts":1702198616817308, "dur":4071, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":19, "ts":1702198616821434, "dur":1930, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1702198616823378, "dur":1912, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1702198616825316, "dur":3150, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1702198616828483, "dur":5176, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1702198616833676, "dur":1949, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":19, "ts":1702198616835673, "dur":4580, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":19, "ts":1702198616840285, "dur":2689380, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1702198616788799, "dur":7699, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1702198616796498, "dur":902, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1702198616804621, "dur":809, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":20, "ts":1702198616805445, "dur":5966, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/Unity.RenderPipelines.Universal.Shaders.dll" }}
+,{ "pid":12345, "tid":20, "ts":1702198616811462, "dur":5503, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.Purchasing.dll" }}
+,{ "pid":12345, "tid":20, "ts":1702198616817011, "dur":3795, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":20, "ts":1702198616820863, "dur":1721, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1702198616822600, "dur":2560, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1702198616825187, "dur":3328, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1702198616828534, "dur":4946, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1702198616833495, "dur":8143, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/sharedassets1.resource" }}
+,{ "pid":12345, "tid":20, "ts":1702198616841669, "dur":2688042, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1702198616789064, "dur":7441, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1702198616796505, "dur":969, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":21, "ts":1702198616798779, "dur":3162, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":21, "ts":1702198616801968, "dur":1322, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":21, "ts":1702198616803309, "dur":6028, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/System.Runtime.dll" }}
+,{ "pid":12345, "tid":21, "ts":1702198616809393, "dur":16369, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/Unity.Services.Core.Internal.dll" }}
+,{ "pid":12345, "tid":21, "ts":1702198616825795, "dur":3059, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.PropertiesModule.dll" }}
+,{ "pid":12345, "tid":21, "ts":1702198616828878, "dur":5688, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":21, "ts":1702198616834595, "dur":1553, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":21, "ts":1702198616836180, "dur":2363, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/level1.resS" }}
+,{ "pid":12345, "tid":21, "ts":1702198616838571, "dur":2691098, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1702198616789516, "dur":6996, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1702198616796512, "dur":895, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":22, "ts":1702198616797407, "dur":63, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/1/Desktop/TankFight_/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":22, "ts":1702198616813041, "dur":2333, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":22, "ts":1702198616815405, "dur":13199, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/Unity.Services.Core.dll" }}
+,{ "pid":12345, "tid":22, "ts":1702198616828681, "dur":5494, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":22, "ts":1702198616834190, "dur":3473, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":22, "ts":1702198616837695, "dur":12161, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/level0" }}
+,{ "pid":12345, "tid":22, "ts":1702198616849872, "dur":2679837, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1702198616789755, "dur":6763, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1702198616796519, "dur":879, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":23, "ts":1702198616804782, "dur":1867, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":23, "ts":1702198616806674, "dur":6319, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":23, "ts":1702198616813072, "dur":5528, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.Purchasing.WinRTStub.dll" }}
+,{ "pid":12345, "tid":23, "ts":1702198616818645, "dur":13619, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":23, "ts":1702198616832282, "dur":6231, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":23, "ts":1702198616838525, "dur":2691139, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1702198616790147, "dur":6377, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1702198616796524, "dur":996, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":24, "ts":1702198616797523, "dur":71, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":24, "ts":1702198616809724, "dur":6181, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":24, "ts":1702198616815934, "dur":13126, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/Unity.Services.Core.Environments.Internal.dll" }}
+,{ "pid":12345, "tid":24, "ts":1702198616829086, "dur":5935, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":24, "ts":1702198616835153, "dur":2264, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":24, "ts":1702198616837502, "dur":3071, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/level0.resS" }}
+,{ "pid":12345, "tid":24, "ts":1702198616840605, "dur":2689078, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":25, "ts":1702198616790472, "dur":6057, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":25, "ts":1702198616796529, "dur":875, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":25, "ts":1702198616801540, "dur":1649, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":25, "ts":1702198616803205, "dur":4774, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":25, "ts":1702198616807999, "dur":5686, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.SpatialTracking.dll" }}
+,{ "pid":12345, "tid":25, "ts":1702198616813745, "dur":26018, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/Unity.Services.Core.Scheduler.dll" }}
+,{ "pid":12345, "tid":25, "ts":1702198616839818, "dur":2689842, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":26, "ts":1702198616790667, "dur":5876, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":26, "ts":1702198616796543, "dur":831, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":26, "ts":1702198616802725, "dur":1774, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":26, "ts":1702198616804531, "dur":5330, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":26, "ts":1702198616809922, "dur":6100, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.Purchasing.WinRTCore.dll" }}
+,{ "pid":12345, "tid":26, "ts":1702198616816047, "dur":13921, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.Purchasing.AppleStub.dll" }}
+,{ "pid":12345, "tid":26, "ts":1702198616829993, "dur":11407, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":26, "ts":1702198616841416, "dur":2688278, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":27, "ts":1702198616790977, "dur":5690, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":27, "ts":1702198616796667, "dur":791, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":27, "ts":1702198616800452, "dur":2812, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":27, "ts":1702198616803278, "dur":5725, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":27, "ts":1702198616809052, "dur":5182, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/Unity.Services.Core.Threading.dll" }}
+,{ "pid":12345, "tid":27, "ts":1702198616814279, "dur":14533, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":27, "ts":1702198616828851, "dur":5693, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":27, "ts":1702198616834572, "dur":37205, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":27, "ts":1702198616871808, "dur":2657930, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":28, "ts":1702198616791255, "dur":5417, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":28, "ts":1702198616796672, "dur":705, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":28, "ts":1702198616805027, "dur":2538, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":28, "ts":1702198616807597, "dur":6081, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":28, "ts":1702198616813742, "dur":26052, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/Unity.Services.Core.Environments.dll" }}
+,{ "pid":12345, "tid":28, "ts":1702198616839834, "dur":2689871, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":29, "ts":1702198616791364, "dur":5315, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":29, "ts":1702198616796679, "dur":718, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":29, "ts":1702198616801327, "dur":1615, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":29, "ts":1702198616802960, "dur":3714, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":29, "ts":1702198616806702, "dur":6331, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/Unity.RenderPipeline.Universal.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":29, "ts":1702198616813094, "dur":5554, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/Unity.Services.Core.Configuration.dll" }}
+,{ "pid":12345, "tid":29, "ts":1702198616818681, "dur":14081, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":29, "ts":1702198616832787, "dur":28240, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":29, "ts":1702198616861040, "dur":2668696, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":30, "ts":1702198616791475, "dur":5212, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":30, "ts":1702198616796687, "dur":688, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":30, "ts":1702198616797376, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/1/Desktop/TankFight_/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":30, "ts":1702198616798293, "dur":2452, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":30, "ts":1702198616800774, "dur":1645, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":30, "ts":1702198616802435, "dur":2128, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":30, "ts":1702198616804578, "dur":6021, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":30, "ts":1702198616810652, "dur":5702, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.Purchasing.AppleCore.dll" }}
+,{ "pid":12345, "tid":30, "ts":1702198616816382, "dur":4041, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/Unity.Postprocessing.Runtime.dll" }}
+,{ "pid":12345, "tid":30, "ts":1702198616820497, "dur":1562, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":30, "ts":1702198616822076, "dur":2033, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":30, "ts":1702198616824125, "dur":2200, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":30, "ts":1702198616826344, "dur":3966, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":30, "ts":1702198616830338, "dur":7651, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":30, "ts":1702198616838017, "dur":2571, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":30, "ts":1702198616840617, "dur":2689103, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":31, "ts":1702198616791622, "dur":5071, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":31, "ts":1702198616796693, "dur":679, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":31, "ts":1702198616797373, "dur":103, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/1/Desktop/TankFight_/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":31, "ts":1702198616799038, "dur":1643, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":31, "ts":1702198616800698, "dur":2185, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":31, "ts":1702198616802952, "dur":4245, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":31, "ts":1702198616807224, "dur":4872, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/Purchasing.Common.dll" }}
+,{ "pid":12345, "tid":31, "ts":1702198616812134, "dur":15149, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":31, "ts":1702198616827321, "dur":4426, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":31, "ts":1702198616831775, "dur":6016, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":31, "ts":1702198616837816, "dur":8878, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/globalgamemanagers.assets.resS" }}
+,{ "pid":12345, "tid":31, "ts":1702198616846722, "dur":2682948, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":32, "ts":1702198616791778, "dur":4920, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":32, "ts":1702198616796699, "dur":668, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":32, "ts":1702198616803975, "dur":999, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":32, "ts":1702198616804990, "dur":5546, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/Unity.Services.Core.Registration.dll" }}
+,{ "pid":12345, "tid":32, "ts":1702198616810596, "dur":5791, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/Unity.RenderPipelines.Universal.Runtime.dll" }}
+,{ "pid":12345, "tid":32, "ts":1702198616816423, "dur":4372, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/Unity.RenderPipelines.Core.Runtime.dll" }}
+,{ "pid":12345, "tid":32, "ts":1702198616820840, "dur":1513, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":32, "ts":1702198616822387, "dur":1932, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":32, "ts":1702198616824333, "dur":2295, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":32, "ts":1702198616826665, "dur":13064, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/1/Desktop/TankFight_/Tank Fight_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":32, "ts":1702198616839750, "dur":2689921, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1702198619534331, "dur":863, "ph":"X", "name": "ProfilerWriteOutput" }
+,
